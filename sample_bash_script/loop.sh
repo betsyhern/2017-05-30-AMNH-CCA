@@ -11,13 +11,3 @@ for j in {a..g};
 do echo $j;
 done
 done
-
-for i in {1..10};
-do 
-echo $i;
-done
-
-for i in {a..g};
-do 
-echo $i
-done
