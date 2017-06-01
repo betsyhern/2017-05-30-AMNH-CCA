@@ -16,6 +16,8 @@ for x in [1,3,5] :
     # Algebra class.
     myalg = ps.Algebra(x, 5.0)
     print myalg.add()
+    print myalg.x
+    print myalg.y
 
 
     
